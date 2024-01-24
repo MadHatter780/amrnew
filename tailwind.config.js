@@ -7,6 +7,9 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily:{
+      tektur:["Tektur",'sans-serif']
+    },
   },
   plugins: [],
 }

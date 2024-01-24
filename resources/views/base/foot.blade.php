@@ -1,3 +1,5 @@
 </body>
 
+@stack('script')
+
 </html>
