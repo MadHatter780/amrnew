@@ -31,7 +31,7 @@
                             </p>
                         </div>
                         <div class="w-full mt-3 -mb-1 xl:-mb-1 lg:-mb-0.5 font-thin text-center">
-                            <p id="" class="text-sm text-orange-500  lg:text-xs xl:text-sm">
+                            <p id="" class="text-sm text-orange-500 lg:text-xs xl:text-sm">
                                 {{ $errors }}
 
                             </p>
